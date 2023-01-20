@@ -1,0 +1,1 @@
+Nella cartella sono presenti il codice sorgente principale mod.f90, insieme ad un codice per fit lineare MMQ e diversi file con alcuni milioni di numeri primi utilizzati
